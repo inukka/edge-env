@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "gulp dev"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/inukko/edge-devenv#readme",
   "devDependencies": {
-    "edge.js": "^1.1.4"
+    "edge.js": "^1.1.4",
+    "gulp": "^4.0.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-tap": "^2.0.0"
   }
 }
