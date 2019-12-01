@@ -17,5 +17,7 @@
     "url": "https://github.com/inukko/edge-devenv/issues"
   },
   "homepage": "https://github.com/inukko/edge-devenv#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "edge.js": "^1.1.4"
+  }
 }
